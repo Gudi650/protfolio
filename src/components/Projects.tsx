@@ -14,7 +14,7 @@ const projects: Project[] = [
   description:
   'A church management SaaS with real-time collaboration, Financial tracking, and team analytics.',
   tech: ['Next.js', 'Laravel API', 'Mysql', 'Redis', 'WebSockets'],
-  liveUrl: '#',
+  liveUrl: 'https://heavlink.com',
   githubUrl: '#'
 },
 {
@@ -22,7 +22,7 @@ const projects: Project[] = [
   description:
   'Inventory management system, order processing, and customer relationship management for small businesses.',
   tech: ['React', 'Laravel', 'Stripe', 'MySQL', 'Tailwind CSS'],
-  liveUrl: '#',
+  liveUrl: 'https://sgclcustomers.co.tz/login',
   githubUrl: '#'
 },
 {
@@ -39,7 +39,7 @@ const projects: Project[] = [
   'School Managament System with features like attendance tracking, grade management, and parent-teacher communication.',
   tech: ['React', 'Laravel', 'Chart.js','Mysql'],
   liveUrl: '#',
-  githubUrl: '#'
+  githubUrl: 'https://github.com/Gudi650/SchoolProject.git'
 }
   ];
 
